@@ -1,0 +1,24 @@
+{
+  "name": "commadline",
+  "version": "1.0.0",
+  "description": "Commandline tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautam197/commandline.git"
+  },
+  "keywords": [
+    "commandline",
+    "tool",
+    "nodejs"
+  ],
+  "author": "Gautam Phuyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautam197/commandline/issues"
+  },
+  "homepage": "https://github.com/gautam197/commandline#readme"
+}
